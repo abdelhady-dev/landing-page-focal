@@ -12,15 +12,15 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center">Claassic Template</h3>
+  <h3 align="center">Focal Template</h3>
 
   <p align="center">
     landing page web site design.
     <br />
-    <a href="https://github.com/abdelhady-dev/landing-page-claassic"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/abdelhady-dev/landing-page-focal"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://abdelhady-dev.github.io/landing-page-claassic/">View Demo</a>
+    <a href="https://abdelhady-dev.github.io/landing-page-focal/">View Demo</a>
     ·
   </p>
 </div>
@@ -32,8 +32,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a></li>
-    <li>
+      <a href="#about-the-project">About The Project</a><li>
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#installation">Installation</a></li>
@@ -48,7 +47,7 @@
 <!-- ABOUT THE PROJECT -->
 # About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://abdelhady-dev.github.io/landing-page-claassic/)
+[![Product Name Screen Shot][product-screenshot]](https://abdelhady-dev.github.io/landing-page-focal/)
 
 This project is a landing page that responsive with desktop, tablet and mobile screens
 
@@ -58,7 +57,7 @@ This project is a landing page that responsive with desktop, tablet and mobile s
 
 ### Technologies
 
-This section list frameworks/libraries/languages used build my project.
+This section list frameworks/libraries/languages used to build my project.
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://www.w3schools.com/css/)
@@ -78,12 +77,11 @@ This section list frameworks/libraries/languages used build my project.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/abdelhady-dev/landing-page-claassic.git
+   git clone https://github.com/abdelhady-dev/landing-page-focal.git
    ```
 2. open index.html
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 
@@ -92,7 +90,7 @@ This section list frameworks/libraries/languages used build my project.
 
 Name - [Abd-Elhady Saeed](https://www.linkedin.com/in/abd-elhady-saeed-404385205/) - hadysaeed78@gmail.com
 
-Project Link: [https://github.com/abdelhady-dev/landing-page-claassic.git](https://github.com/abdelhady-dev/landing-page-claassic.git)
+Project Link: [https://github.com/abdelhady-dev/landing-page-focal.git](https://github.com/abdelhady-dev/landing-page-focal.git)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
