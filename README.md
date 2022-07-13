@@ -46,7 +46,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+# About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://abdelhady-dev.github.io/landing-page-claassic/)
 
@@ -72,7 +72,7 @@ This section list frameworks/libraries/languages used build my project.
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+# Getting Started
 
 ### Installation
 
@@ -88,7 +88,7 @@ This section list frameworks/libraries/languages used build my project.
 
 
 <!-- CONTACT -->
-## Contact
+# Contact
 
 Name - [Abd-Elhady Saeed](https://www.linkedin.com/in/abd-elhady-saeed-404385205/) - hadysaeed78@gmail.com
 
