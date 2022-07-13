@@ -12,15 +12,15 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center">Focal Template</h3>
+  <h3 align="center">Claassic Template</h3>
 
   <p align="center">
     landing page web site design.
     <br />
-    <a href="https://github.com/abdelhady-dev/landing-page-focal"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/abdelhady-dev/landing-page-claassic"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://abdelhady-dev.github.io/landing-page-focal/">View Demo</a>
+    <a href="https://abdelhady-dev.github.io/landing-page-claassic/">View Demo</a>
     ·
   </p>
 </div>
@@ -32,11 +32,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
+      <a href="#about-the-project">About The Project</a></li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
@@ -52,7 +48,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://abdelhady-dev.github.io/landing-page-focal/)
+[![Product Name Screen Shot][product-screenshot]](https://abdelhady-dev.github.io/landing-page-claassic/)
 
 This project is a landing page that responsive with desktop, tablet and mobile screens
 
@@ -62,7 +58,7 @@ This project is a landing page that responsive with desktop, tablet and mobile s
 
 ### Technologies
 
-This section list frameworks/libraries/languages used to build my project.
+This section list frameworks/libraries/languages used build my project.
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://www.w3schools.com/css/)
@@ -82,19 +78,12 @@ This section list frameworks/libraries/languages used to build my project.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/abdelhady-dev/landing-page-focal.git
+   git clone https://github.com/abdelhady-dev/landing-page-claassic.git
    ```
 2. open index.html
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-<!-- USAGE EXAMPLES -->
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -103,7 +92,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Name - [Abd-Elhady Saeed](https://www.linkedin.com/in/abd-elhady-saeed-404385205/) - hadysaeed78@gmail.com
 
-Project Link: [https://github.com/abdelhady-dev/landing-page-focal.git](https://github.com/abdelhady-dev/landing-page-focal.git)
+Project Link: [https://github.com/abdelhady-dev/landing-page-claassic.git](https://github.com/abdelhady-dev/landing-page-claassic.git)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
